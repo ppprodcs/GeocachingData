@@ -8,5 +8,6 @@
     "difficulty": 2.5,
     "terrain": 2,
     "size": 1,
+    "hint": "Jotain erikoista?",
     "description": "Peruskätkö laajalahdessa\ntämä on toinen rivi"
 }
