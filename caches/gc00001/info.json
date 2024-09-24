@@ -1,13 +1,13 @@
 {
-    "cacheName": "Testi",
+    "cacheName":"Paskaa Ikkunassa",
     "cacheType": "Peruskätkö",
     "premium": "",
-    "cacheId": "GC12345",
+    "cacheId": "GC00001",
     "hider": "Test",
-    "dateHidden": "21.09.2024",
-    "difficulty": 2.5,
-    "terrain": 2,
+    "dateHidden": "5.09.2024",
+    "difficulty": 1.5,
+    "terrain": 1,
     "size": 1,
-    "hint": "Jotain erikoista?",
-    "descriptionSummary": "Peruskätkö laajalahdessa"
+    "hint": "Enpä vittu tiiä",
+    "descriptionSummary": "Peruskätkö 3.069b luokassa"
 }
