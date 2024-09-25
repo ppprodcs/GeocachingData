@@ -1,1 +1,13 @@
-{}
+{
+    "cacheName":"Tämä tila ei vittu ole tyhjä",
+    "cacheType": "Peruskätkö",
+    "premium": "",
+    "cacheId": "GC00002",
+    "hider": "Random Spurgu",
+    "dateHidden": "25.09.2024",
+    "difficulty": 2.5,
+    "terrain": 1,
+    "size": 1,
+    "hint": oikea taka pulpetti",
+    "descriptionSummary": "Peruskätkö 3.060a luokassa"
+}
