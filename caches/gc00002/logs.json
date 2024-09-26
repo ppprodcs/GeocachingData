@@ -1,22 +1,10 @@
 {
   "logs": [
     {
-      "message": "First message content",
-      "user": "Username 1",
+      "message": "**Julkaistu**",
+      "user": "PabloCaching",
       "found": true,
-      "timestamp": "21.09.2024"
-    },
-    {
-      "message": "Second message content",
-      "user": "Username 2",
-      "found": false,
-      "timestamp": "22.09.2024"
-    },
-    {
-      "message": "Third message content",
-      "user": "Username 3",
-      "found": true,
-      "timestamp": "23.09.2024"
+      "timestamp": "25.09.2024"
     }
   ]
 }
